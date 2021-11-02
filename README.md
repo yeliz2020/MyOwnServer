@@ -1,6 +1,7 @@
 # MyOwnServer
 
-##Kendi Web Sunucumuzu yazalım.
+## Kendi Web Sunucumuzu yazalım.
+
 Kendi bilgisayarımızda aşağıdaki özellikleri kullanarak sunucumuzu yazalım.
 
 createServer metodunu kullanacağız.
